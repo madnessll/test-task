@@ -14,9 +14,9 @@ CREATE TABLE accounts (
     phone3 VARCHAR(11)
 );
 
--- Открой терминал и введи: 
+-- Откройте терминал и введите: 
 -- mysql -u root -p
 -- source table.sql;
 
--- Таким образом ты создал бд customer_accounts и таблицу accounts
+-- Таким образом вы создали бд customer_accounts и таблицу accounts
 
